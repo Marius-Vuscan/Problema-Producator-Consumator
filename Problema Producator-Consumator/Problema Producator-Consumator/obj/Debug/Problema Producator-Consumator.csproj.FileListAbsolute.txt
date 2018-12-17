@@ -1,0 +1,15 @@
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\bin\Debug\Problema Producator-Consumator.exe.config
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\bin\Debug\Problema Producator-Consumator.exe
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\bin\Debug\Problema Producator-Consumator.pdb
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator_MarkupCompile.cache
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator_MarkupCompile.lref
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator.g.resources
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema_Producator_Consumator.Properties.Resources.resources
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator.exe
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator.pdb
+C:\Users\Marius\Desktop\Problema Producator-Consumator\Problema Producator-Consumator\obj\Debug\Problema Producator-Consumator.csprojAssemblyReference.cache
